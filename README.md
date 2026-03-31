@@ -1,5 +1,4 @@
-Project Title
-VIX–VXN Relative Spread: Regimes, Compression Dynamics, and Market Behavior
+# VIX–VXN Relative Spread: Regimes, Compression Dynamics, and Market Behavior
 ________________________________________
 Executive Summary
 This project studies how the relationship between VIX (S&P 500 volatility) and VXN (Nasdaq volatility) behaves during periods of market stress.
