@@ -8,7 +8,7 @@ The focus is not on predicting direction, but on understanding whether the sprea
 
 ## Research Question
 
-Does extreme compression in the VXN–VIX spread carry useful information about future market behavior?
+Does extreme compression in the relative VXN–VIX spread contain useful information about future market behavior?
 
 More specifically:
 
@@ -85,9 +85,9 @@ A simple allocation rule:
 - 1.5x exposure when the signal is active  
 - 0.5x otherwise  
 
-produces, in this simple implementation:
+produces, in this illustrative implementation:
 
-- similar long-term returns  
+- broadly comparable long-term returns  
 - materially lower drawdowns  
 - better Sharpe and Sortino  
 - significantly improved drawdown-adjusted performance  
