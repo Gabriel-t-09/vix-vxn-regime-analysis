@@ -55,6 +55,8 @@ Interpretation:
 - Compressed spread → systemic risk dominates
 - Intense and rapid compression above MA200 → probable overreaction
 
+---
+
 ## Methodology
 
 ### Data
