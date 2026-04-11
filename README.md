@@ -37,23 +37,23 @@ This effect is not replicated by VIX alone.
 VIX and VXN reflect demand for protection, not opinion.
 
 In normal regimes:
-
 - VXN > VIX, reflecting structurally higher volatility in growth assets
 
 In systemic stress:
-
 - dispersion collapses
 - correlation rises
 - hedging demand concentrates in index options
 
 → The spread compresses or inverts
 
+The central hypothesis: when this compression is both intense and rapid — and the market is already in a healthy regime (above MA200) — it signals an overreaction. The market fell too far, too fast, for reasons that appear temporary rather than structural. The spread captures that dynamic.
+
+In that context, the data suggests a probabilistic tendency toward recovery — not a directional prediction, but a shift in the quality of the distribution.
+
 Interpretation:
-
-- High spread → idiosyncratic risk
-- Compressed spread → systemic risk
-
----
+- High spread → idiosyncratic risk dominates
+- Compressed spread → systemic risk dominates
+- Intense and rapid compression above MA200 → probable overreaction
 
 ## Methodology
 
